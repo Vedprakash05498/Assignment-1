@@ -1,6 +1,21 @@
 # Assignment-1
 Created a Dynamic Table with Buttons to Add and Delete Rows
 
+# Question
+a. Table
+i. Create an HTML table with 5 columns and 5 rows, with a header rowand the
+first column as SL.No.
+ii. The header rows should be SL.No., First Name, Last Name, City,
+Country
+iii. Fill the table with realistic data
+b. Buttons
+i. Create 2 buttons: 1st button called “Add row to bottom” will add anew
+row with data to the table.
+ii. 2
+nd button called “Add row to top” will add a new row to the top ofthe
+table below the header row.
+iii. The SL.No. should be automatically adjusted.
+
 
 
 
