@@ -4,7 +4,7 @@ Created a Dynamic Table with Buttons to Add and Delete Rows
 
 
 
-# add New
+# Add New
 ![Screenshot 2022-12-18 at 12 57 51 PM](https://user-images.githubusercontent.com/47717448/208286714-d6d1a749-8c95-44c0-be93-c42064305344.png)
 
 
