@@ -16,3 +16,5 @@ Created a Dynamic Table with Buttons to Add and Delete Rows
 # After deletion
 ![Screenshot 2022-12-18 at 12 58 11 PM](https://user-images.githubusercontent.com/47717448/208286770-d0153bbb-b675-4d91-8305-46b6857ca184.png)
 
+# 5 Rows view
+![Screenshot 2022-12-18 at 1 16 21 PM](https://user-images.githubusercontent.com/47717448/208287202-eee89462-bc95-43a6-b8b1-8300d4d318c9.png)
