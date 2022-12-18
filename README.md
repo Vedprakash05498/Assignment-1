@@ -11,11 +11,12 @@ iii. Fill the table with realistic data
 
 
 b. Buttons
+
 i. Create 2 buttons: 1st button called “Add row to bottom” will add anew
 row with data to the table.
-ii. 2
-nd button called “Add row to top” will add a new row to the top ofthe
+ii. 2nd button called “Add row to top” will add a new row to the top ofthe
 table below the header row.
+
 iii. The SL.No. should be automatically adjusted.
 
 
